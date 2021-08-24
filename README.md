@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ouma44
-- 👀 I’m interested in Big Data, predictive analytics
+- 👀 I’m interested in Big Data, predictive analytics, NLP
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP Projects
 - 📫 How to reach me oumaoloo@gmail.com
 
 <!---
